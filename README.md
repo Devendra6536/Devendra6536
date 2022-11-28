@@ -19,9 +19,7 @@
 <a href="https://www.linkedin.com/in/devendrapal8682/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Devendra Pal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCK9gfD1owujKvYdCvRTG1gQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Devendra Kumar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devendrapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devendrapal" height="30" width="40" /></a>
-<a href="https://leetcode.com/DK_PAL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DK_PAL" height="30" width="40" /></a>
-  
- <a href="https://auth.geeksforgeeks.org/user/devendra8682/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="DK_PAL" height="30" width="40"/></a>
+<a href="https://leetcode.com/DK_PAL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DK_PAL" height="30" width="40" /></a> <a href="https://auth.geeksforgeeks.org/user/devendra8682/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="DK_PAL" height="30" width="40"/></a>
  
 </p>
 
