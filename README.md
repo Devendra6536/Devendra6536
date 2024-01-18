@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Survey Website**
+- 🔭 I’m currently working on **NetTest - A automation testing tool**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Web Development, Android App Development**
+- 💬 Ask me about **Web Development, JavaSpringboot Development**
 
 - 📫 How to reach me **devendrapal8682@gmail.com**
 
