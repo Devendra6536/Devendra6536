@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **NetTest - A automation testing tool**
+- 🔭 I’m currently working on **Robo Assistant - A chatbot to assisting the user**
 
 - 🌱 I’m currently learning **Angular**
 
